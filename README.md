@@ -9,7 +9,7 @@ The torrent current file structure is made in a way to allow rolling updates of 
 You can find what I have been archiving over here https://github.com/UBTL/coom-archival , there are links to the stuff I already have archived and such, if you wish to get more direct contact with me you can drop by my discord server https://discord.unclebane.xyz/ , if you wish to help out paying the server used for storage/encoding this projects and such, any help is incredible helpful for that, you can try do so over https://donate.unclebane.xyz/
 
 # PLEASE SEED!!
-The initial seeding are some cheap VPS because I ran out of all money these past months for spending keep paying the servers I had while making this archive, they are going to run for a few weeks or the bandwidth exceeds left credits the account I have running on it empties out. If you want me to keep running this one longer then consider perhaps donating it, otherwise help out seeding it yourself.
+If you want me to keep running this one longer then consider perhaps donating it, otherwise help out seeding it yourself.
 
 And last but not least dont forget bros
 ![enter image description here](https://i.imgur.com/10GTWrH.jpg)
